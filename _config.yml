@@ -36,7 +36,7 @@ features                                  :
 
   - title                                 : Task Time Tracking
     description                           : Create and remove tasks, and measure time spent on a task via a timer
-    fontawesome_icon_name                 : clock-o
+    fontawesome_icon_name                 : fa-clock-o
     
   - title                                 : Review Time Spent
     description                           : View daily record of time spent

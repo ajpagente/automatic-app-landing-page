@@ -35,11 +35,11 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Simple, Easy to Use
-    description                           : Katagrafo is designed to provide you the information you need
+    description                           : Katagrafo is designed to provide you only the information you need
     fontawesome_icon_name                 : star
     
   - title                                 : Task Time Tracking
-    description                           : Create and remove tasks, and measure time spent on a task via a timer
+    description                           : Create and remove tasks. Track time spent on a task via a timer
     fontawesome_icon_name                 : clock
     
   - title                                 : Review Time Spent

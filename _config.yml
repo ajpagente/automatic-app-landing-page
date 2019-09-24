@@ -47,7 +47,7 @@ features                                  :
     fontawesome_icon_name                 : history
 
   - title                                 : Task In Progress Reminder
-    description                           : Be remind every 15 mins of ongoing task
+    description                           : Be reminded every 15 mins of ongoing task
     fontawesome_icon_name                 : bell
 
 # Theme Settings

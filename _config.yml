@@ -30,7 +30,6 @@ github_username                           :
 youtube_username                          :
 
 
-
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
@@ -49,6 +48,10 @@ features                                  :
   - title                                 : Task In Progress Reminder
     description                           : Be reminded every 15 mins of ongoing task
     fontawesome_icon_name                 : bell
+
+  - title                                 : Export Task History
+    description                           : Upload history to iCloud, Notes, or by email
+    fontawesome_icon_name                 : file-export
 
 # Theme Settings
 topbar_color                              : "#000000"

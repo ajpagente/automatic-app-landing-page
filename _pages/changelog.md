@@ -6,8 +6,9 @@ include_in_header: true
 
 # Changelog
 <br>
+
 ### `Latest`
-# **Version 1.1 **
+# **Version 1.1**
 The first update to our app enables sharing of task history to provide you a means of exporting. 
 
 #### What's New
